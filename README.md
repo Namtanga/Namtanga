@@ -1,6 +1,6 @@
 # Hi there 👋 You are welcome
 ## My name is Saidi Namtanga and I am the Data Doctor
-+ 🔭 I’m a self Driven Data Analyst with a string background in healthcare particulary PEPFAR indicators in HIV/AIDS Program.
++ 🔭 I’m a self Driven Data Analyst with a strong background in healthcare particulary PEPFAR indicators in HIV/AIDS Program.
 + 🤔 I’m interested in data science, particularly analytics and its application to solving business problems.
 + 👯 I’m looking to collaborate on everything data analysis projects, Let's talk data.
 + 💬 I have a great grasp of the almighty SQL of different flavours (including MySQL, Microsoft SQL Server, Postgresql, BigQuery).
