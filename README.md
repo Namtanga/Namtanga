@@ -1,5 +1,5 @@
 # Hi there 👋 You are welcome
-## My name is Saidi Namtanga, I am a Statistician and Monitoring and Evaluation Specialist
+## My name is Saidi Namtanga, I am a Statistician and Monitoring & Evaluation Specialist
 + 🔭 I’m a self-driven Data Analyst with a strong background in healthcare particulary PEPFAR indicators in the HIV/AIDS Program.
 + 🤔 I’m interested in data science, particularly analytics and its application to solving business problems.
 + 👯 I’m looking to collaborate on everything data analysis projects. Let's talk data.
